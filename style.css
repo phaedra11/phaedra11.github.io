@@ -1,16 +1,13 @@
 .container {
-    border: 1px dashed #FFC0CB;
     width: 100%;
     margin: auto;
 }
 
 .header {    
-    background-color: #;
     text-align: left;
 }
 
 .side {
-    background-color: #;
     display: inline-block;
     width: 19%;
     min-width: 110px;
@@ -19,14 +16,12 @@
 }
 
 .main {
-    background-color: #;
     display: inline-block;
     width: 80%;
     text-align: center;
 }
 
 .footer {
-    background-color: #;
     width: 100%;
     text-align: left;
     margin-top: 0;
